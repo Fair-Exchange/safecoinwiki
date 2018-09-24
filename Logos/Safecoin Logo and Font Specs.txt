@@ -1,0 +1,7 @@
+Fair Exchange and Safe Trade Logo Colors (from darkest to lightest)
+Inner colors: 0b779c, 009ccc, 5fbad4
+Outer colors: 00496e, 006f9c, 338fa6
+
+Font: Eras Demi ITC
+FairExchange and SafeTrade Font Color: 00496e 
+SafeCoin Font Color: 00587a
