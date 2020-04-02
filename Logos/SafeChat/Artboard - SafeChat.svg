@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_3" x="1260" y="-6" width="680" height="1098" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_1" x="905.607" y="480.448" width="109.786" height="126.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_1-2" x="265.607" y="480.448" width="109.786" height="126.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_1-3" x="1545.607" y="480.448" width="109.786" height="126.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_-_SafeChat">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_-_SafeChat" data-name="Artboard - SafeChat" clip-path="url(#clip-Artboard_-_SafeChat)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_3)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="662" height="1080" transform="translate(1269)" fill="#00698c"/>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="640" height="1080" fill="#1a1a1a"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="640" height="1080" transform="translate(639)" fill="#002443"/>
+    <g id="SC-logo1" transform="translate(216 0)">
+      <g id="Path_16" data-name="Path 16" transform="translate(664.135 633.401) rotate(-90)" fill="none">
+        <path d="M139.352,0,185.8,80.365,139.352,160.73h-92.9L0,80.365,46.451,0Z" stroke="none"/>
+        <path d="M 55.10603332519531 15 L 17.32534790039063 80.3651123046875 L 55.10603332519531 145.730224609375 L 130.6963195800781 145.730224609375 L 168.4770202636719 80.3651123046875 L 130.6963195800781 15 L 55.10603332519531 15 M 46.45060729980469 0 L 139.3517608642578 0 L 185.8023834228516 80.3651123046875 L 139.3517608642578 160.730224609375 L 46.45060729980469 160.730224609375 L -1.52587890625e-05 80.3651123046875 L 46.45060729980469 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Path_16-2" data-name="Path 16" d="M121.529,0l40.51,70.087-40.51,70.087H40.51L31.857,125.2,8.576,84.924,0,70.087,40.51,0Z" transform="translate(674.413 621.519) rotate(-90)" fill="#00698c"/>
+      <g transform="matrix(1, 0, 0, 1, -216, 0)" filter="url(#Union_1)">
+        <path id="Union_1-4" data-name="Union 1" d="M468.978,153.806l-16.085,9.3L407,136.578V83.525L452.893,57l45.893,26.526v53.052l-15.992,9.243,1.867,19.195Z" transform="translate(507.61 429.45)" fill="#fff"/>
+      </g>
+      <path id="Path_16-3" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(717.413 547.522) rotate(-90)" fill="#525252"/>
+      <path id="Path_16-4" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(737.56 547.522) rotate(-90)" fill="#414141"/>
+      <path id="Path_16-5" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(757.708 547.522) rotate(-90)" fill="#333"/>
+    </g>
+    <g id="SC-logo" transform="translate(-424 0)">
+      <g id="Path_16-6" data-name="Path 16" transform="translate(664.135 633.401) rotate(-90)" fill="none">
+        <path d="M139.352,0,185.8,80.365,139.352,160.73h-92.9L0,80.365,46.451,0Z" stroke="none"/>
+        <path d="M 52.79788208007813 11 L 12.70524597167969 80.3651123046875 L 52.79788208007813 149.730224609375 L 133.0044860839844 149.730224609375 L 173.0971221923828 80.3651123046875 L 133.0044860839844 11 L 52.79788208007813 11 M 46.45057678222656 0 L 139.3517913818359 0 L 185.8023681640625 80.3651123046875 L 139.3517913818359 160.730224609375 L 46.45057678222656 160.730224609375 L 0 80.3651123046875 L 46.45057678222656 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Path_16-7" data-name="Path 16" d="M121.529,0l40.51,70.087-40.51,70.087H40.51L31.857,125.2,8.576,84.924,0,70.087,40.51,0Z" transform="translate(674.413 621.519) rotate(-90)" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, 424, 0)" filter="url(#Union_1-2)">
+        <path id="Union_1-5" data-name="Union 1" d="M468.978,153.806l-16.085,9.3L407,136.578V83.525L452.893,57l45.893,26.526v53.052l-15.992,9.243,1.867,19.195Z" transform="translate(-132.39 429.45)" fill="#fff"/>
+      </g>
+      <path id="Path_16-8" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(717.413 547.522) rotate(-90)" fill="#525252"/>
+      <path id="Path_16-9" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(737.56 547.522) rotate(-90)" fill="#414141"/>
+      <path id="Path_16-10" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(757.708 547.522) rotate(-90)" fill="#333"/>
+    </g>
+    <g id="SC-logo-2" data-name="SC-logo" transform="translate(856 0)">
+      <g id="Path_16-11" data-name="Path 16" transform="translate(664.135 633.401) rotate(-90)" fill="none">
+        <path d="M139.352,0,185.8,80.365,139.352,160.73h-92.9L0,80.365,46.451,0Z" stroke="none"/>
+        <path d="M 52.79788208007813 11 L 12.70524597167969 80.3651123046875 L 52.79788208007813 149.730224609375 L 133.0044860839844 149.730224609375 L 173.0971221923828 80.3651123046875 L 133.0044860839844 11 L 52.79788208007813 11 M 46.45057678222656 0 L 139.3517913818359 0 L 185.8023681640625 80.3651123046875 L 139.3517913818359 160.730224609375 L 46.45057678222656 160.730224609375 L 0 80.3651123046875 L 46.45057678222656 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Path_16-12" data-name="Path 16" d="M121.529,0l40.51,70.087-40.51,70.087H40.51L31.857,125.2,8.576,84.924,0,70.087,40.51,0Z" transform="translate(674.413 621.519) rotate(-90)" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, -856, 0)" filter="url(#Union_1-3)">
+        <path id="Union_1-6" data-name="Union 1" d="M468.978,153.806l-16.085,9.3L407,136.578V83.525L452.893,57l45.893,26.526v53.052l-15.992,9.243,1.867,19.195Z" transform="translate(1147.61 429.45)" fill="#fff"/>
+      </g>
+      <path id="Path_16-13" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(717.413 547.522) rotate(-90)" fill="#525252"/>
+      <path id="Path_16-14" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(737.56 547.522) rotate(-90)" fill="#414141"/>
+      <path id="Path_16-15" data-name="Path 16" d="M12.033,0l4.011,6.94-4.011,6.94H4.011L3.154,12.4.849,8.409,0,6.94,4.011,0Z" transform="translate(757.708 547.522) rotate(-90)" fill="#333"/>
+    </g>
+  </g>
+</svg>
