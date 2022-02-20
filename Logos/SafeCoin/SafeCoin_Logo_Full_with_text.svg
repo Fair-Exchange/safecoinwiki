@@ -3,11 +3,12 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="498.9px"
 	 height="136.1px" viewBox="0 0 498.9 136.1" style="enable-background:new 0 0 498.9 136.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#005885;}
-	.st1{fill:#00749F;}
-	.st2{fill:#00648B;}
+	.st0{fill:#03587A;}
+	.st1{fill:#00749E;}
+	.st2{fill:#00648A;}
 	.st3{fill:#595554;}
 	.st4{fill:#635F5E;}
+	.st5{fill:#0C789D;}
 </style>
 <g id="Whitespace">
 </g>
@@ -83,7 +84,7 @@
 			C76.8,67.5,78,65.8,78,63.8z"/>
 		<path class="st4" d="M78,63.8c0-2.6-2.1-4.8-4.7-4.8l0.1,18.7h3.8l-2.1-9.5C76.8,67.5,78,65.8,78,63.8z"/>
 		<path class="st1" d="M88.6,79.6l-15,8.7c-0.1,0.1-0.2,0.1-0.3,0l0,0l0,8l22-12.9L88.6,79.6z"/>
-		<polygon class="st1" points="112.7,45.4 73.3,22.7 73.3,22.7 73.3,33.5 103.2,50.6 97.9,53.6 73.3,39.5 73.3,48.3 73.3,48.3 
+		<polygon class="st5" points="112.7,45.4 73.3,22.7 73.3,22.7 73.3,33.5 103.2,50.6 97.9,53.6 73.3,39.5 73.3,48.3 73.3,48.3 
 			90.7,58.3 90.7,74.8 105.6,83.3 105.6,83.6 73.3,102.4 73.3,113.4 73.3,113.4 112.7,90.7 		"/>
 	</g>
 	<g>
